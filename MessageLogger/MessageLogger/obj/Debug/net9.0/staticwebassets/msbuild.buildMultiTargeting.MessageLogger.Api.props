@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MessageLogger.Api.props" />
+</Project>

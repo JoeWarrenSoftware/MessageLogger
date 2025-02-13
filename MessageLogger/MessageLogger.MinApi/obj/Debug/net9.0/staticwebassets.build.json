@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Dy7vQcfe6gXlhx715Az9R73xoY7cyj0GyR0LJINJmOc=",
+  "Source": "MessageLogger.MinApi",
+  "BasePath": "_content/MessageLogger.MinApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

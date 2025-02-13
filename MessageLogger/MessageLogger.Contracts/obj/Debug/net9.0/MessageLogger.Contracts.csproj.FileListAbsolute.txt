@@ -1,0 +1,11 @@
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\bin\Debug\net9.0\MessageLogger.Contracts.deps.json
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\bin\Debug\net9.0\MessageLogger.Contracts.dll
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\bin\Debug\net9.0\MessageLogger.Contracts.pdb
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\obj\Debug\net9.0\MessageLogger.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\obj\Debug\net9.0\MessageLogger.Contracts.AssemblyInfoInputs.cache
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\obj\Debug\net9.0\MessageLogger.Contracts.AssemblyInfo.cs
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\obj\Debug\net9.0\MessageLogger.Contracts.csproj.CoreCompileInputs.cache
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\obj\Debug\net9.0\MessageLogger.Contracts.dll
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\obj\Debug\net9.0\refint\MessageLogger.Contracts.dll
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\obj\Debug\net9.0\MessageLogger.Contracts.pdb
+C:\Source\PublicSoftware\InterviewTask\ControllerAPI\MessageLogger\MessageLogger.Contracts\obj\Debug\net9.0\ref\MessageLogger.Contracts.dll

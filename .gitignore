@@ -1,0 +1,66 @@
+# **.NET Build & Runtime Files**
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.so
+*.dylib
+*.log
+*.cache
+*.lock.json
+*.swp
+*.tmp
+*.bak
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# **Compiled Code & Packages**
+.vscode/
+.vs/
+node_modules/
+*.nupkg
+*.snupkg
+*.nuget/
+NuGet.config
+packages/
+project.lock.json
+global.json
+.env
+.env.local
+
+# **Logs & Debugging**
+*.log
+logs/
+TestResults/
+test_logs_*.txt  # Prevents test log files from being pushed
+Test_LogRepositoryTests_*.txt  # Matches specific test log file patterns
+
+# **Secrets & Configurations**
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+.env
+
+# **IDE/Editor Specific Files**
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+.DS_Store
+Thumbs.db
+
+# **Generated Files & Cache**
+wwwroot/dist/
+wwwroot/node_modules/
+wwwroot/build/
+coverage/
+coverage-reports/
+
+# **Docker, CI/CD & Deployment**
+docker-compose.override.yml
+*.publish/
+*.deploy/
