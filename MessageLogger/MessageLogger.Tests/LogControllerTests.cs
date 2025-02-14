@@ -4,18 +4,21 @@ using MessageLogger.Application.Repositories;
 using MessageLogger.Contracts.Requests;
 using MessageLogger.Contracts.Responses;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Moq;
 
 namespace MessageLogger.Tests;
 public class LogsControllerTests
 {
     private readonly Mock<ILogRepository> _mockRepo;
+    private readonly Mock<ILogger<LogsController>> _mockLogger;
     private readonly LogsController _controller;
 
     public LogsControllerTests()
     {
         _mockRepo = new Mock<ILogRepository>();
-        _controller = new LogsController(_mockRepo.Object);
+        _mockLogger = new Mock<ILogger<LogsController>>();
+        _controller = new LogsController(_mockRepo.Object, _mockLogger.Object);
     }
 
     [Fact]
