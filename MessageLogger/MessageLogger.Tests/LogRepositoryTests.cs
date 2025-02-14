@@ -1,11 +1,5 @@
-﻿using System;
-using System.IO;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Threading.Tasks;
-using MessageLogger.Application.Models;
+﻿using MessageLogger.Application.Models;
 using MessageLogger.Application.Repositories;
-using Xunit;
 
 namespace MessageLogger.Tests;
 public class LogRepositoryTests

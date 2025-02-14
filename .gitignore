@@ -33,6 +33,7 @@ global.json
 
 # **Logs & Debugging**
 *.log
+*log.txt
 logs/
 TestResults/
 test_logs_*.txt  # Prevents test log files from being pushed

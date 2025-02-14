@@ -19,6 +19,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MessageLogger.Application\MessageLogger.Application.csproj" />
+    <ProjectReference Include="..\MessageLogger.Contracts\MessageLogger.Contracts.csproj" />
+    <ProjectReference Include="..\MessageLogger\MessageLogger.Api.csproj" />
   </ItemGroup>
 
   <ItemGroup>

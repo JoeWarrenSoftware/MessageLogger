@@ -18,6 +18,11 @@ public class LogsController : ControllerBase
     [HttpPost(ApiEndpoints.Logs.Create)]
     public async Task<IActionResult> Create([FromBody] CreateLogRequest request)
     {
+        if (request.Text.Length > 255)
+        {
+            return BadRequest("Text cannot exceed 255 characters.");
+        }
+
         var log = request.MapToLog();
 
         await _logRepository.CreateAsync(log);
